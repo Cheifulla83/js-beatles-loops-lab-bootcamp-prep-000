@@ -20,8 +20,5 @@ function iLoveTheBeatles(num) {
   do {
     music.push('I love the Beatles!');
     num++;
-   } while(num <= 15) {
-    
-  }
-  
+   } while(num <= 15);
 }
